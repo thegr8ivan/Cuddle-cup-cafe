@@ -5,7 +5,9 @@ Market Opportunity
 Coffee lovers in Nairobi CBD, including busy professionals, students, and local residents.
 Market Demand: 
 In the growing coffee consumption population , high demand for coffee brewing is occuring thus creating a satisfactory coffee lover's shop to quench my beloved customers' thirst.
+
 ELEVATE YOUR COFFEE EXPERIENCE
+
 At Cuddle Cup , we're dedicated to bringing you the finest coffe experience right to your doorstep. From rich espressso to creamy lattes and decadent mochas, our extensive menu is crafted to satisfy every coffee lover's craving. Whether you're starting your day or taking a break, we've got the perfect brew for you.
 *Our Offerings:*
 - *Espressos*: Bold and invigorating, our espressos are crafted to kickstart your day.
@@ -24,7 +26,7 @@ At Cuddle Cup , we're dedicated to bringing you the finest coffe experience righ
 
 Visit our website [https://cuddlecupcoffee.com] to explore our menu, place an order, and experience coffee like never before.
 
-*[Coffee House Name]* - Because great coffee is more than just a drink, it’s a moment to cherish.
+*[Cuddle Cup Coffee]* - Because great coffee is more than just a drink, it’s a moment to cherish.
 
 ---
 
