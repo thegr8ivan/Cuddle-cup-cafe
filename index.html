@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuddle Cup</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Cuddle Cup</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#menu">Menu</a></li>
+                <li><a href="#products">Products</a></li>
+                <li><a href="#reviews">Reviews</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Welcome to Cuddle Cup</h2>
+        <p>Enjoy every sip of greatness bit by bit.</p>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Cuddle Cup is dedicated to providing the best coffee experience with a touch of comfort and love.</p>
+    </section>
+
+    <section id="menu">
+        <h2>Our Menu</h2>
+        <div class="menu-item">
+            <img src="caffeine-1866758_1280.jpg" alt="Latte">
+            <p>Latte</p>
+        </div>
+        <div class="menu-item">
+            <img src="coffee-4908764_1280.jpg" alt="Cappuccino">
+            <p>Cappuccino</p>
+        </div>
+        <div class="menu-item">
+            <img src="coffee-7992226_1280.jpg" alt="Espresso">
+            <p>Espresso</p>
+        </div>
+        <div class="menu-item">
+            <img src="coffee-7561288_1280.jpg" alt="Mocha">
+            <p>Mocha</p>
+        </div>
+        <div class="menu-item">
+            <img src="coffee-7561288_1280.jpg" alt="Hot Chocolate">
+            <p>Hot Chocolate</p>
+        </div>
+        <div class="menu-item">
+            <img src="decaf-4282319_1280.jpg" alt="Decaf Coffee">
+            <p>Decaf Coffee</p>
+        </div>
+        <h3>Pastries</h3>
+        <div class="menu-item">
+            <img src="croissant.jpg" alt="Croissant">
+            <p>Croissant</p>
+        </div>
+        <div class="menu-item">
+            <img src="muffin.jpg" alt="Muffin">
+            <p>Muffin</p>
+        </div>
+        <div class="menu-item">
+            <img src="danish.jpg" alt="Danish">
+            <p>Danish</p>
+        </div>
+    </section>
+
+    <section id="products">
+        <h2>Products</h2>
+        <p>Explore our variety of coffee beans and exclusive pastries.</p>
+    </section>
+
+    <section id="reviews">
+        <h2>Reviews</h2>
+        <p>See what our customers have to say.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <form id="delivery-form">
+            <label for="distance">Enter delivery distance (km):</label>
+            <input type="number" id="distance" name="distance" required>
+            <button type="submit">Calculate Delivery Cost</button>
+        </form>
+        <p id="delivery-cost"></p>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
