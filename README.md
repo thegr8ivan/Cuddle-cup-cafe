@@ -28,6 +28,4 @@ Visit our website [https://cuddlecupcoffee.com] to explore our menu, place an or
 
 *[Cuddle Cup Coffee]* - Because great coffee is more than just a drink, it’s a moment to cherish.
 
----
 
-Feel free to tweak any details to better fit your vision!
