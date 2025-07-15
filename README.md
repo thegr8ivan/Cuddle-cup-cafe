@@ -1,5 +1,4 @@
-# phase1-project-001
-Business Name: [CUDDLE CUP]
+# [CUDDLE CUP]
 A cozy coffee house that not only serves a range of delicious coffee beverages and variaties of pastries but also offers convenient delivery options to cater to busy customers.
 Market Opportunity
 Coffee lovers in Nairobi CBD, including busy professionals, students, and local residents.
@@ -24,7 +23,7 @@ At Cuddle Cup , we're dedicated to bringing you the finest coffe experience righ
 
 *Order Now and Savor the Difference*
 
-Visit our website [https://cuddlecupcoffee.com] to explore our menu, place an order, and experience coffee like never before.
+Visit our website https://cuddlecupcoffee.com to explore our menu, place an order, and experience coffee like never before.
 
 *[Cuddle Cup Coffee]* - Because great coffee is more than just a drink, it’s a moment to cherish.
 
